@@ -4,6 +4,7 @@ powerfunctions
 Serial to Lego PowerFunctions IR Bridge with ATMega-328 (14.74560 MHz).
 
 PORTB.2 = LED (Status - blinks when transmitting data)
+
 PORTB.4 = IR-LED (Transmitter LED)
 
 PORTD.0 = RXD (Data Input 57600 8N1)
