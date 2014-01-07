@@ -1,4 +1,4 @@
-AVR Lego Power Functions
+AVR Lego Power Functions (Serial to IR Bridge)
 ==============
 
 Serial to Lego PowerFunctions IR Bridge with ATMega-328 (14.74560 MHz).
